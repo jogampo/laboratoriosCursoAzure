@@ -13,3 +13,7 @@ Este es el laboratorio número 1.
 Usuario: jose123
 pass: Jose123456789
 - Cuartar tarea: Obetener el código. [Capera con el código](ImportantCompanyApp) 
+- Modificar el código para que vaya a la cola.
+- Correr la aplicación en local.
+- Corre la aplicación en un web App y Testear.
+- Limpiar todos los recursos. 
