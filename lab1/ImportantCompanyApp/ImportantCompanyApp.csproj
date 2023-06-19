@@ -12,4 +12,8 @@
     <Content Remove="Pages\Index - Copy.cshtml" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="Azure.Storage.Queues" Version="12.9.0" />
+  </ItemGroup>
+
 </Project>
